@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d58cad43-c49e-4e46-b0b2-049c75c8c665" name="Default" comment="start spring basic">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+    <list default="true" id="d58cad43-c49e-4e46-b0b2-049c75c8c665" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/shbak/Application$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/shbak/Application.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/shbak/MessagePrinter.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/classes/com/shbak/MessageService.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="114">
-              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+              <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -776,7 +779,7 @@
       <workItem from="1487349191785" duration="48000" />
       <workItem from="1487349340903" duration="813000" />
       <workItem from="1487375545955" duration="6763000" />
-      <workItem from="1488319562539" duration="917000" />
+      <workItem from="1488319562539" duration="991000" />
     </task>
     <task id="LOCAL-00001" summary="start spring basic">
       <created>1487411804778</created>
@@ -785,11 +788,18 @@
       <option name="project" value="LOCAL" />
       <updated>1487411804778</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="gitignore file add">
+      <created>1488320498063</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1488320498063</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14173000" />
+    <option name="totallyTimeSpent" value="14247000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1936" height="1056" extended-state="0" />
@@ -835,7 +845,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start spring basic" />
-    <option name="LAST_COMMIT_MESSAGE" value="start spring basic" />
+    <MESSAGE value="gitignore file add" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore file add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1215,7 +1226,7 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+          <caret line="6" column="38" lean-forward="false" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
           <folding />
         </state>
       </provider>
